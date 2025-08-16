@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Ronin E Gambill the Second. I program robots, video games, and on the side, dishwashers. I run a Jean Store Empire called Bills Jean Shop which you can find at www.billsjeanshop.com. If you have any questions or inquires please direct them to noreply@billsjeanshop.com 
 <!--
 **Ronin-the-Barbarian/Ronin-the-Barbarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=18979&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=blue_navy)
